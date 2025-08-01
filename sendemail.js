@@ -15,7 +15,7 @@ const transporter = nodemailer.createTransport({
   },
 });
 
-// Function to send email to a student
+// Function to send email, the difference from this to the one in test.js, is that this one just sends the email and it doesn't create the certificate and send it.
 async function sendEmail(student, retries = 3) {
   const mailOptions = {
     from: '"Evento Fatecano por um dia" <FatecItaquaEvento@gmail.com>',

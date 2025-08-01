@@ -1,5 +1,9 @@
 # 🎓 Fatecano por um Dia
 
+<p align="center">
+  <img src="./assets/preview/fatecano.png" alt="Banner do Projeto" width="600"/>
+</p>
+
 Um sistema completo para gerenciar inscrições, confirmação de presença e envio de certificados do evento **"Fatecano por um Dia"**, realizado para a **Fatec de Itaquaquecetuba**.
 
 ## 📦 Visão Geral
