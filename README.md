@@ -38,7 +38,7 @@ Este projeto foi desenvolvido para facilitar a organização de um evento acadê
 ├── test.js                   # Gera e envia certificados em PDF
 ├── whatsapp.js               # (Opcional) Envia ID pelo WhatsApp via Twilio
 ├── certificado.js            # (Não enviado, mas necessário para gerar PDFs)
-└── Aluno.accdb               # Banco de dados Access (não incluído)
+└── Aluno.accdb               # Banco de dados Access (incluido, mas sem info)
 ```
 
 ---
